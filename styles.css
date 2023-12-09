@@ -174,7 +174,7 @@ form label {
 
 form input,
 form textarea {
-    width: 600px;
+    width: 50%;
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #ccc;
@@ -191,8 +191,9 @@ form .cta-button {
     font-size: 18px;
     transition: background-color 0.3s;
     align-items: center;
-    width: 600px;
+    width: 50%;
     margin-top: 0px;
+  
 }
 
 /* Footer styles */
